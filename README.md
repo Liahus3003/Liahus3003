@@ -40,7 +40,7 @@
 </h3>
 
 <div align="center">
-[![@liahus's Holopin board](https://holopin.me/liahus)](https://holopin.io/@liahus)
+[![@liahus's Holopin board](https://www.holopin.io/api/user/board?user=liahus)](https://holopin.io/@liahus)
 </div>
   
   
