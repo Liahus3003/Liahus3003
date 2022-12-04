@@ -11,6 +11,7 @@
 <p>I am a Full-stack web developer</p>
 <p>Currently working at a MNC as a Frontend developer</p>
 <p>My GITHUB account is all for trying out interesting concepts via Private/Public repo's</p>
+<p>AWS Certified Cloud Practitioner</p>
 </div>
 
 
