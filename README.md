@@ -36,12 +36,7 @@
 
 ---
 
-<h3 align="center">
-</h3>
-
-<div align="center">
-[![@liahus's Holopin board](https://www.holopin.io/api/user/board?user=liahus)](https://holopin.io/@liahus)
-</div>
+[![Suhail's Holopin board](https://holopin.io/api/user/board?user=liahus)](https://holopin.io/@liahus)
   
   
 <h3 align="center">Connect with me 🤝 </h3>
