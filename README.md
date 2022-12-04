@@ -3,12 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h3>
 
-
-
 ---
 
 <div align="center">
-<p>I am a Full-stack web developer</p>
+<p>I am a Full-stack web developer with hands-on experience designing, developing and implementing applications</p>
 <p>Currently working at a MNC as a Frontend developer</p>
 <p>My GITHUB account is all for trying out interesting concepts via Private/Public repo's</p>
 <p>AWS Certified Cloud Practitioner</p>
@@ -39,12 +37,11 @@
 
 [![Suhail's Holopin board](https://holopin.io/api/user/board?user=liahus)](https://holopin.io/@liahus)
   
-  
-<h3 align="center">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhail-shariff-167aa812a/)
-  
+<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/suhail-shariff-167aa812a/">
+		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+</a>  
 </div>
 
 
